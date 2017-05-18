@@ -11,7 +11,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #444;
 }
 
 li {
@@ -20,7 +20,7 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color:white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -30,4 +30,31 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #111;
+}
+
+.jumbotron{
+    background-color:black;
+}
+
+p{
+    font-size:20px;
+    color:rgb(67,107,74);
+    
+}
+
+.blackreferences{
+    color:white;
+}
+
+a{
+    color:white;
+    font-size:25px;
+}
+
+h2{
+    font-size:50px;
+}
+
+h3{
+    color:white;
 }
